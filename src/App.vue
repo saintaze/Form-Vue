@@ -11,7 +11,6 @@ export default {
 </script>
 
 <style>
-/* @import "https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"; */
 
 * {
   padding: 0;
@@ -29,8 +28,7 @@ body {
   color: #222;
   font-size: 1.6rem;
   font-weight: normal;
+  overflow: hidden;
 }
 
-.app {
-}
 </style>
