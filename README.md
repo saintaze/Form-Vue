@@ -1,19 +1,29 @@
-# form-validate
+# Form-Vue
+A Form built with Vue.
 
-## Project setup
-```
-yarn install
-```
+### Features
++ Fully responsive
++ Beautiful design
++ Full form validation and error handling
++ Asynchronous email validation on the server
++ Animations
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+##### Built With
++ HTML5
++ SASS
++ Vue
++ Vuelidate
 
-### Compiles and minifies for production
-```
-yarn build
-```
+### Getting Started
+clone repo
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+`cd` into folder and run `yarn install`
+
+run `yarn serve`
+
+# Live Version
+#### URL: [Sign Up Now](https://vue-notes.ayezahmed.now.sh/)
+
+# Author
+Saintaze [@saintaze](https://github.com/saintaze/)
+

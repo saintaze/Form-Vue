@@ -12,6 +12,10 @@ const routes = [
   {
     path: "/signup",
     component: Signup
+  },
+  {
+    path: "*",
+    redirect: "/signup"
   }
 ]
 

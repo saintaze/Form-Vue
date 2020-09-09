@@ -10,8 +10,7 @@ export default {
 };
 </script>
 
-<style>
-
+<style lang="scss">
 * {
   padding: 0;
   margin: 0;
@@ -20,6 +19,26 @@ export default {
 
 html {
   font-size: 62.5%;
+
+  @media(max-width: 1260px) {
+    font-size: 60%;
+  }
+
+  @media(max-width: 1100px) {
+    font-size: 58%;
+  }
+
+   @media(max-width: 950px) {
+    font-size: 56%;
+  }
+
+  @media(max-width: 700px) {
+    font-size: 55%;
+  }
+
+  @media(max-width: 500px) {
+    font-size: 54%;
+  }
 }
 
 body {
@@ -27,8 +46,7 @@ body {
   font-family: "Avenir", Helvetica, Arial, sans-serif;
   color: #222;
   font-size: 1.6rem;
-  font-weight: normal;
-  overflow: hidden;
 }
+
 
 </style>
