@@ -213,7 +213,7 @@ $color-grey-dark-3: #4b6372;
     width: 40%;
     text-align: center;
     font-family: 'Mr De Haviland', cursive;
-    padding: 10rem 0;
+    padding: 9rem 0;
   }
 
   &__left, &__right {
