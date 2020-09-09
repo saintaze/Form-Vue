@@ -124,8 +124,6 @@ export default {
   methods: {
     async formSubmit() {
       this.$v.$touch();
-      this.formSubmitSuccess = true
-
       if (!this.$v.$invalid) {
         const payload = {
           "campaignUuid": "46aa3270-d2ee-11ea-a9f0-e9a68ccff42a",
