@@ -22,7 +22,7 @@ clone repo
 run `yarn serve`
 
 # Live Version
-#### URL: [Sign Up Now](https://vue-notes.ayezahmed.now.sh/)
+#### URL: [Sign Up Now](https://form-vue.vercel.app/signup)
 
 # Author
 Saintaze [@saintaze](https://github.com/saintaze/)
